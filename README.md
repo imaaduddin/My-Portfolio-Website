@@ -1,0 +1,1 @@
+My portfolio website. Created using HTML, CSS and JavaScript. I display some personal projects, client work, my skill set and previous work experience.
